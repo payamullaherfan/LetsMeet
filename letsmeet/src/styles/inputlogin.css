@@ -1,0 +1,24 @@
+.input-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 73px;
+
+}
+
+.input-login-title {
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.text-input {
+    width: 340px;
+    height: 40px;
+    background-color: #F6EDED;
+    border-style: none;
+    border-radius: 5px;
+
+    font-size: 20px;
+    padding-left: 10px;
+}

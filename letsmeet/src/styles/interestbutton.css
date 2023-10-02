@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+
+.interestbtn {
+    background-color: #F6EDED;
+    height: 50px;
+    width: 140px;
+
+    cursor: pointer;
+    border-radius: 2px;
+    border-radius: 20px;
+
+}
+
+.interestbtn div {
+    font-family: 'Koulen', cursive;
+    font-size: 18px;
+}
